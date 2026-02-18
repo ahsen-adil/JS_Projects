@@ -30,5 +30,6 @@ This is a simple, client-side Todo List application built with HTML, CSS, and Ja
 2.  **Edit a Todo**: Click the "Edit" button next to the todo item you wish to modify. A prompt will appear allowing you to change the text.
 3.  **Delete a Todo**: Click the "Delete" button next to the todo item you wish to remove.
 
+## deloyment link:
 
-
+[Visit site](https://js-projects-self.vercel.app/)
